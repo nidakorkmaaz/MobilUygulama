@@ -1,2 +1,2 @@
 # MobilUygulama
-Mobil Uygulama Proje Ödevi
+Mobil Uygulama Proje Ödeviii
